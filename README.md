@@ -16,14 +16,17 @@
     </li>
     <li>
       <a href="#-my-skills">My Skills</a></li>
+    </li>
     <li>
+      <a href="#-my-github-progress">My Github Progres</a></li>
+    </li>
     <li>
       <a href="#-lets-connect">Let's Connect!</a></li>
-    <li>
+    </li>
   </ol>
 </details>
 
-<!-- Get to Know me -->
+<!-- get to know me -->
 ## <picture><img src = "https://github.com/4lena/demo/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
 
 <picture> <img align="right" src="https://github.com/4lena/demo/blob/main/imgs/about2.gif" width = 300px></picture>
@@ -34,11 +37,16 @@
 - 🕸 Visit me at my website https://4lena.github.io/Lena./
 - 📫 Reach me at lena.alsuwailem@gmail.com
 
-<!-- Skills -->
+<!-- skills -->
 ## <picture><img src = "https://github.com/4lena/demo/blob/main/imgs/skills.gif" width = 50px></picture> **My Skills**
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,jquery,php,mysql,mongodb,python,r,java,docker,azure,vscode,github,git,figma,idea&perline=9)](https://skillicons.dev)
 
-<!-- Let's Connect! -->
+<!-- my github progress -->
+## <picture><img src = "https://github.com/4lena/demo/blob/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
+
+
+
+<!-- let's connect! -->
 ## <picture><img src = "https://github.com/4lena/demo/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
 
 <picture> <img align="right" src="https://github.com/4lena/demo/blob/main/imgs/contact2.gif" width = 250px></picture>
