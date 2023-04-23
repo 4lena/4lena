@@ -15,13 +15,24 @@
       <a href="#-get-to-know-me">Get to Know me</a>
     </li>
     <li>
-      <a href="#-my-skills">My Skills</a></li>
+      <a href="#-my-skills">My Skills</a>
     </li>
     <li>
-      <a href="#-my-github-progress">My Github Progres</a></li>
+      <a href="#-my-github-progress">My Github Progres</a>
+	<ul>
+	    <li>
+	       <a href="#streak-stats">Streak Stats</a>
+	    </li>
+	    <li>
+	       <a href="#github-profile-stats">GitHub Profile Stats</a>
+	    </li>
+	    <li>
+	       <a href="#github-profile-trophy">GitHub Profile Trophy</a>
+	    </li>
+	</ul>	
     </li>
     <li>
-      <a href="#-lets-connect">Let's Connect!</a></li>
+      <a href="#-lets-connect">Let's Connect!</a>
     </li>
   </ol>
 </details>
@@ -84,3 +95,8 @@
   <img src="https://github.com/4lena/img/blob/main/imgs/web.png" width = 50px />
 </a>
 </p>
+
+<br><br><br><br>
+##
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
