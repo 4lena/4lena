@@ -78,7 +78,7 @@
 ## <picture><img src = "https://github.com/4lena/img/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
 
 <picture> <img align="right" src="https://github.com/4lena/img/blob/main/imgs/contact2.gif" width = 250px></picture>
-<p>•
+<p>
 <a href="https://www.linkedin.com/in/lenaalsuwailem/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -87,7 +87,7 @@
 </a>
 </p>
 
-<p>•
+<p>
 <a href="mailto:lena.alsuwaile@example.com" target="_blank">
   <img src="https://github.com/4lena/img/blob/main/imgs/gmail.png"  width = 50px />
 </a>
@@ -96,7 +96,7 @@
 </a>
 </p>
 
-<br><br><br><br>
+<br><br><br><br><br>
 ##
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
