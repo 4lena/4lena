@@ -43,19 +43,19 @@
 
 <picture> <img align="right" src="https://github.com/4lena/demo/blob/main/imgs/contact2.gif" width = 250px></picture>
 <p>•
-<a target="_blank" href="https://www.linkedin.com/in/lenaalsuwailem/">
+<a href="https://www.linkedin.com/in/lenaalsuwailem/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a target="_blank" href="https://twitter.com/LENAFH">
+<a href="https://twitter.com/LENAFH" target="_blank">
    <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
 </p>
 
 <p>•
-<a target="_blank" href="mailto:lena.alsuwaile@example.com">
+<a href="mailto:lena.alsuwaile@example.com" target="_blank">
   <img src="https://github.com/4lena/demo/blob/main/imgs/gmail.png"  width = 50px />
 </a>
-<a target="_blank" href="https://4lena.github.io/Lena./">
+<a href="https://4lena.github.io/Lena./" target="_blank">
   <img src="https://github.com/4lena/demo/blob/main/imgs/web.png" width = 50px />
 </a>
 </p>
