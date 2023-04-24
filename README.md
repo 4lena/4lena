@@ -77,25 +77,23 @@
 <!-- let's connect! -->
 ## <picture><img src = "https://github.com/4lena/img/blob/main/imgs/contact.gif" width = 70px></picture> **Let's Connect!**
 
-<picture> <img align="right" src="https://github.com/4lena/img/blob/main/imgs/contact2.gif" width = 250px></picture>
-<p align="left">
-<a href="https://www.linkedin.com/in/lenaalsuwailem/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-<a href="https://twitter.com/LENAFH" target="_blank">
-   <img src="https://skillicons.dev/icons?i=twitter" />
-</a>
-</p>
+<picture> <img align="right" src="https://github.com/4lena/img/blob/main/imgs/contact2.gif" width = 300px></picture>
+<div>
+  <a href="https://www.linkedin.com/in/lenaalsuwailem/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+	
+  <a href="https://twitter.com/LENAFH" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</div>
 
-<p align="left">
-<a href="mailto:lena.alsuwaile@example.com" target="_blank">
-  <img src="https://github.com/4lena/img/blob/main/imgs/gmail.png"  width = 50px />
-</a>
-<a href="https://4lena.github.io/Lena./" target="_blank">
-  <img src="https://github.com/4lena/img/blob/main/imgs/web.png" width = 50px />
-</a>
-</p>
+<div>
+  <a href="mailto:lena.alsuwaile@example.com">
+    <img src="https://github.com/4lena/img/blob/main/imgs/gmail.png"  width = 48px />
+  </a>
 
-<br><br><br><br><br>
-##
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+  <a href="https://4lena.github.io/Lena./">
+    <img src="https://github.com/4lena/img/blob/main/imgs/web.png" width = 51px />
+  </a>
+</div>
