@@ -21,9 +21,6 @@
       <a href="#-my-github-progress">My Github Progres</a>
 	<ul>
 	    <li>
-	       <a href="#streak-stats">Streak Stats</a>
-	    </li>
-	    <li>
 	       <a href="#github-profile-stats">GitHub Profile Stats</a>
 	    </li>
 	    <li>
@@ -54,11 +51,6 @@
 
 <!-- my github progress -->
 ## <picture><img src = "https://github.com/4lena/img/blob/main/imgs/progress.gif" width = 50px></picture> **My Github Progress**
-
-- <h3>🔥Streak Stats</h3>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=4lena&theme=tokyonight_duo" alt="4lena" /></p>
-
-----
 
 - <h3>💻GitHub Profile Stats</h3>
 <p align="center">
