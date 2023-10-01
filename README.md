@@ -38,9 +38,9 @@
 ## <picture><img src = "https://github.com/4lena/img/blob/main/imgs/about.gif" width = 40px></picture> **Get to Know me**
 
 <picture> <img align="right" src="https://github.com/4lena/img/blob/main/imgs/about2.gif" width = 300px></picture>
-- 🏫 I'm a senior IT student at King Saud University.
-- 👀 I’m currently looking for a COOP training opportunity.
-- 📝 I'm currently learning NLP & Big Data.
+- 🏫 I'm a fresh IT graduate from King Saud University.
+- 👀 I’m currently looking for an entry-level position.
+- 📝 I'm currently learning DevOps & Data Analysis.
 - 👯 I love to discover new things related to technology.
 - 🕸 Visit me at my website https://4lena.github.io/Lena./
 - 📫 Reach me at lena.alsuwailem@gmail.com
